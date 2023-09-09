@@ -76,13 +76,13 @@ background-color: white;
         padding: 35px;
         height:auto;
         align-items: center;
-        border-radius: 50%;
+        /* border-radius: 50%; */
 
     }
     .img-fluid{
         width: 100%;
         margin: 0;
-        border-radius: 50%;
+        /* border-radius: 50%; */
       }
       .name{
         font-size: 60%;
@@ -112,6 +112,11 @@ background-color: white;
     .profile{
         margin-top: 15px;
     }
+    .aboutme{
+        margin-left: 10%;
+        width: 100%;
+    }
+   
 }
 /* medium device */
 
